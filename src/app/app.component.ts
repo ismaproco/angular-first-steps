@@ -12,5 +12,5 @@ export class AppComponent {
     { value: "0", view: "zero" },
     { value: "1", view: "one" },
     { value: "2", view: "Two" }
-];
+  ];
 }
